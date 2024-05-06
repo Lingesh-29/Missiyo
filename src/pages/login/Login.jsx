@@ -25,13 +25,13 @@ const Login = () => {
 
             <div className="remember-forgot">
                 <label><input type="checkbox" />Remember me</label>
-                <a href="#">Forgot password?</a>
+                <a href="login">Forgot password?</a>
             </div>
 
             <button type="submit">Login</button>
 
             <div className="register-link">
-                <h9>Don't have an account? <a href="#">Register</a></h9>
+                <h9>Don't have an account? <a href="register">Register</a></h9>
             </div>
         </form>
       
