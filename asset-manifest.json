@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Missiyo/static/css/main.2a107069.css",
+    "main.js": "/Missiyo/static/js/main.0c92e20f.js",
+    "static/media/product video.mp4": "/Missiyo/static/media/product video.a8c999dcd4e2312fbec8.mp4",
+    "static/media/work video.mp4": "/Missiyo/static/media/work video.2f1051118741b9ae919b.mp4",
+    "static/media/solution video.mp4": "/Missiyo/static/media/solution video.1a9a5f6b7968e518fe4d.mp4",
+    "static/media/reviews video.mp4": "/Missiyo/static/media/reviews video.900163a5ff450e081e1c.mp4",
+    "static/media/FAQs video.mp4": "/Missiyo/static/media/FAQs video.1fda7de3fdf41adaa0eb.mp4",
+    "static/media/avatar5.jpg": "/Missiyo/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/avatar2.jpg": "/Missiyo/static/media/avatar2.ce63ba75f4177d9803fc.jpg",
+    "static/media/logo.png": "/Missiyo/static/media/logo.07e81e50de00a1d155e6.png",
+    "index.html": "/Missiyo/index.html",
+    "main.2a107069.css.map": "/Missiyo/static/css/main.2a107069.css.map",
+    "main.0c92e20f.js.map": "/Missiyo/static/js/main.0c92e20f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a107069.css",
+    "static/js/main.0c92e20f.js"
+  ]
+}
