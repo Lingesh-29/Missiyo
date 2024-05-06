@@ -3,14 +3,14 @@ import './Login.css';
 import { FaUser } from 'react-icons/fa';
 import { FaLock } from "react-icons/fa6";
 import transition from '../../transition';
-import video from './assets/login video.mp4'
+
 
 
 const Login = () => {
   return (
     <div className='wrapper'>
         <form action="">
-        <video src={video} style={{width: 1525, height: 500}} autoPlay loop muted />
+        
             
             <h8>LOGIN</h8>
             <div className="input-box">
